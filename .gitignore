@@ -1,0 +1,9 @@
+# scratch/debug HTML captures from BOT scraping — not needed in the repo
+BOT/bot_775*.html
+
+# python cache
+__pycache__/
+*.pyc
+
+# local settings
+.claude/settings.local.json
